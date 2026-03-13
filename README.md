@@ -1,52 +1,30 @@
-<h1 align="center">Hey there! I'm Hemacharan Kodhanda 👋</h1>
+# Hi there, I'm Hemacharan Kodhanda 👋
 
-<p align="center">
-  <em>Full Stack Developer · ECE Student at VIT AP University</em><br/>
-  <em>Building digital experiences that blend art, code, and human connection.</em>
-</p>
+I am a developer who sees code as a medium for expression. My work sits at the intersection of **hardware precision** and **software elegance**. Currently, I am pursuing my B.Tech in Electronics and Communication Engineering at VIT AP University.
 
----
+### 🚀 What I'm working on
+- 💻 **Full Stack Development**: Building digital experiences that blend art, code, and human connection.
+- 🎓 **Academic Excellence**: Maintaining a strong focus on ECE while developing platforms like **Unisync**.
+- 🛠️ **Problem Solving**: Developing solutions like **LocalPro**, a hyperlocal freelancing platform.
 
-## 🧑‍💻 About Me
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Java, C/C++
+- **Web Development:** HTML, CSS, JavaScript (Full Stack)
+- **Hardware/IoT:** Raspberry Pi, IoT Systems, Digital Logic Design
+- **Tools:** Git, MATLAB, VS Code
 
-- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering** at **VIT AP University**
-- 🔭 I build at the intersection of **hardware precision** and **software elegance**
-- 🌐 Portfolio: [hemacharank.netlify.app](https://hemacharank.netlify.app)
-- 📫 Reach me at: [hemacharankodhanda@gmail.com](mailto:hemacharankodhanda@gmail.com)
+### 🌟 Featured Projects
+- **[Unisync](https://unisyncc.netlify.app/):** A comprehensive web application designed to fulfill university-related needs.
+- **[LocalPro](https://localproo.netlify.app/):** A hyperlocal platform connecting users with trusted professionals for home services.
 
----
+### 📊 Stats
+![Hemacharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemacharankodhanda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemacharankodhanda&layout=compact&theme=radical)
 
-## 🛠️ Tech Stack
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com/)
-[![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 [Unisync](https://unisyncc.netlify.app/)
-> A web application that completes all your university needs — an all-in-one academic platform.
-
-### 🔧 [LocalPro](https://localproo.netlify.app/)
-> A hyperlocal freelancing platform connecting users with trusted professionals for home services.
+### 📫 Let's Connect!
+- **Portfolio:** [hemacharank.netlify.app](https://hemacharank.netlify.app/)
+- **Email:** [hemacharankodhanda@gmail.com](mailto:hemacharankodhanda@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hemacharankodhanda](https://linkedin.com/in/hemacharankodhanda)
 
 ---
-
-## 📚 Education
-
-| Qualification | Institution | Score |
-|---|---|---|
-| B.Tech - ECE *(Pursuing)* | VIT AP University | — |
-| Intermediate | Sri Chaitanya Educational Institutions | 93% |
-| 10th Class | Sri Chaitanya School | 93% |
-
----
-
-<p align="center">
-  <em>"I see code as a medium for expression."</em><br/><br/>
-  ⭐ Feel free to explore my repos and drop a star if you like something!
-</p>
+*“Designing the Future of Interaction.”*
