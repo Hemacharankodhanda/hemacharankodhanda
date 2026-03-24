@@ -58,9 +58,7 @@
 
 ---
 
-# 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemacharankodhanda&theme=tokyo-night" />
 
 ---
 
@@ -92,4 +90,4 @@
 
 ---
 
-⭐ From [Hemacharan](https://github.com/hemacharankodhanda)
+
