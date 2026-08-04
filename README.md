@@ -34,10 +34,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
----
 
-
----
 
 # 🌐 Connect With Me
 
