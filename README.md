@@ -15,7 +15,7 @@
 * 🎯 Goal: Build impactful tech products and participate in **hackathons**
 
 🌐 Portfolio:
-👉 https://hemacharank.netlify.app
+👉 https://hemacharank.vercel.app
 
 ---
 
