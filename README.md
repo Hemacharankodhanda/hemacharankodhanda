@@ -40,7 +40,7 @@
 
 <p align="center">
 
-<a href="https://hemacharank.netlify.app">
+<a href="https://hemacharank.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
