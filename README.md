@@ -15,7 +15,7 @@
 * 🎯 Goal: Build impactful tech products and participate in **hackathons**
 
 🌐 Portfolio:
-👉 https://hemacharank.vercel.app
+👉 https://hemacharank.me
 
 ---
 
@@ -40,7 +40,7 @@
 
 <p align="center">
 
-<a href="https://hemacharank.vercel.app">
+<a href="https://hemacharank.me">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
